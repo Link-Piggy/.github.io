@@ -1,0 +1,5 @@
+li a
+{
+  color : red ; transition: 0.5 s; 
+}
+li a:hover {  color : green ; }
