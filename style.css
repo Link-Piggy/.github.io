@@ -1,5 +1,5 @@
-li a
+a
 {
   color : blue ; transition: 0.5 s; 
 }
-li a:hover {  color : green ; }
+a:hover {  color : green ; }
