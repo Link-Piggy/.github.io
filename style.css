@@ -3,3 +3,30 @@ a
   color : white ; transition: 0.5 s; 
 }
 a:hover {  color : green ; }
+
+body
+{
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-direction: column;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+main
+{
+  display: -webkit-flex;
+  display: flex;
+  flex: auto
+}
+
+aside
+{
+  flex: 1
+}
+
+article
+{
+  flex: 3
+}    
