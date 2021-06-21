@@ -16,7 +16,7 @@ body
 
 header
 {
-  flex: auto
+  height: 350px;
 }
 
 main
